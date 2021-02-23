@@ -10,7 +10,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "core-js": "^2.6.5",
-    "element-ui": "^2.9.1",
+    "element-ui": "^2.15.1",
     "nprogress": "^0.2.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
